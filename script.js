@@ -24,6 +24,5 @@ typewriter.typeString('ure')
   .typeString('roactive')
   .pauseFor(pauseInterval)
   .deleteAll()
-  .typeString('ixel')
-  .pauseFor(pauseInterval)
+  .typeString(' Foundation')
   .start();
