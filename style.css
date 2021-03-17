@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus+SC&family=Newsreader:wght@400;500&display=swap');
+
+
+body {
+  color: #212529;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.4;
+  transition: all .2s ease-in-out;
+  background-color: #f4f1eb;
+  margin: 0 auto;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+  font-family: 'Newsreader', serif;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
