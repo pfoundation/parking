@@ -1,7 +1,8 @@
 var app = document.getElementById('word');
 
 var typewriter = new Typewriter(app, {
-  loop: false
+  loop: false,
+  autoStart: true
 });
 
 var pauseInterval = null;
@@ -25,4 +26,4 @@ typewriter.typeString('ure')
   .pauseFor(pauseInterval)
   .deleteAll()
   .typeString(' Foundation')
-  .start();
+  .stop();
