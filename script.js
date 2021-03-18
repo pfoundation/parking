@@ -25,9 +25,7 @@ typewriter.typeString('ure')
   .pauseFor(pauseInterval)
   .deleteAll()
   .typeString(' Foundation')
-  .callFunction(function(){ 
-
-document.querySelectorAll('Typewriter__cursor').forEach(a=>a.style.display = "none");
-
-return true;})
+  .callFunction(function(state) {
+  	state.elements.cursor.style.display = 'none';
+  })
   .start();
