@@ -28,6 +28,7 @@ In order to offer more connectivity quality and performance, P Foundation operat
 
 ## Peering Information
 ASN - AS399728
+IRR as-set AS-PFOUNDATION
 Suggested Prefix Limit
 IPv4 – 15
 IPv6 – 30
