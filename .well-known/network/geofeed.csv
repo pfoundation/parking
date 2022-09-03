@@ -1,7 +1,7 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# P Foundation Geofeed,lastupdated (rfc3339): 2022-09-02T16:02:33-04:00
-172.98.48.0.0/24,US,US-DC,Washington,20005
-172.98.49.0.0/24,US,US-NY,New York,
+# P Foundation Geofeed,lastupdated (rfc3339): 2022-09-03T18:27:59-04:00
+172.98.48.0/24,US,US-DC,Washington,20005
+172.98.49.0/24,US,US-NY,New York,
 172.98.50.0/29,US,US-DC,Washington,20005
 172.98.50.8/29,US,US-DC,Washington,20005
 172.98.50.16/29,US,US-DC,Washington,20005
